@@ -261,7 +261,7 @@ button {
 .banner_section {
     width: 100%;
     float: left;
-    background: linear-gradient(110deg, #3c0e0e 55%, rgba(60, 90, 90, 0) 55%), url(../images/banner-bg.png);
+    background: linear-gradient(110deg, #3c0e0e 55%, rgba(60, 90, 90, 0) 55%), url(../images/banner-pepe.png);
     position: relative;
     padding-bottom: 90px;
 }
